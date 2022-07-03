@@ -6,5 +6,16 @@
 - No seperate download required for Python or Pygame
 ## Code
 - The code is also provided (Snakes.py) in the repository which is **properly commented** and **self explanatory**.
+## Welcome Page
+![Welcome Image](/Screenshots/Welcome.png)
+## Game consists of different modes
+![Modes](/Screenshots/Modes.png)
+## Rules
+- A rules section is provided inside the game
+![Rules](/Screenshots/Rules.png)
+## InGame
+![InGame](/Screenshots/Game_Photo.png)
+## Game Over
+![Game Over](/Screenshots/Game_Over.png)
 ## Making your own custom game
 - Just download the Snakes.py file and assets folder from zip file and make your custom changes.
