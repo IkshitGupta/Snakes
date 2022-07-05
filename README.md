@@ -1,5 +1,5 @@
 # Snakes
-- A gaming application build using **Pygame** library
+- A gaming application written in Python using **Pygame** library
 ## How to download?
 - **Download the zip file and just run Snakes.exe file and the game will start.**<br/>
 - Another way for downloading: Download the Snakes.exe file and assets folder in same parent folder and run Snakes.exe file.
